@@ -27,7 +27,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=658e910cac54b47a) - [@davidAly(david-alysson)](https://github.com/DavidAly));
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=4098574c0e119176) - [@davidAly(david-alysson)](https://github.com/DavidAly));
-
+* Foi feita a tradução PT-BR no projeto Censorship.no! - ([contribuição](https://hosted.weblate.org/translate/censorship-no/app/cenov2-strings/pt/?q=state%3A%3Ctranslated&offset=1) - [@LucasGarciaSI(lucas-garcia)](https://github.com/LucasGarciaSI)
+* Foi feita a tradução PT-BR no projeto Censorship.no! [contribuição](https://hosted.weblate.org/translate/censorship-no/app/cenov2-strings/pt/?q=state%3A%3Ctranslated&offset=3) -  [@LucasGarciaSI(lucas-garcia)](https://github.com/LucasGarciaSI)
 
 ## Corrigir bug (4)
 
@@ -35,6 +36,9 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Correção para autenticação do usuário com a fonte de dados: Usuários logados não conseguiam acessar conteudos protegidos por login. ([PR #4295](https://github.com/keiyoushi/extensions-source/pull/4295) - [Chopper(daniel-rocha)](https://github.com/choppeh));
 * Atualização de API e modelo de dados de transferencia: Fonte de dados alterou o conjunto de APIs usadas junto com o schema de dados de comunciação. ([PR #4743](https://github.com/keiyoushi/extensions-source/pull/4743) - [Chopper(daniel-rocha)](https://github.com/choppeh));
 *  Correção de bug para ferramenta de save automático que estava salvando os documentos sem a existência de qualquer alteração. ([PR #18](https://github.com/Slacky300/REAL_TIME_EDIFY/pull/18) - [a-mais(paulo-pinheiro)](https://github.com/a-mais));
+*  Simplificar os pacotes de simulação [issue](https://github.com/cosmos/cosmos-sdk/issues/21774) -  [@LucasGarciaSI(lucas-garcia)](https://github.com/LucasGarciaSI)
+*  Criar código em uma estrutura para construir blockchains públicos de alto valor [issue](https://github.com/cosmos/cosmos-sdk/compare/main...LucasGarciaSI:cosmos-sdk:patch-1) -  [@LucasGarciaSI(lucas-garcia)](https://github.com/LucasGarciaSI)
+*  Corrigir tempo limite da área de transferência do X11 no Linux [issue](https://github.com/achristmascarl/rainfrog/issues/83) - [@LucasGarciaSI(lucas-garcia)](https://github.com/LucasGarciaSI)
 
 
 ## Adicionar pequena funcionalidade (4)
